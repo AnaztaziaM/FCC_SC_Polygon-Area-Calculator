@@ -1,6 +1,6 @@
 # FCC_SC_Polygon-Area-Calculator
-FreeCodeCamp- Scientific Computing with Python Certification course-Polygon Area Calculator project.
-This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to illustrate why is my code looks like it is. The shape_calculator.py is my code.
+**FreeCodeCamp- Scientific Computing with Python Certification course-Polygon Area Calculator project.
+This project is one of the projects in FeeCodeCamp- Scientific Computing with Python Certification course. The README, main.py and test_module.py files are created by Freecodecamp.I am using these to illustrate why is my code looks like it is. The shape_calculator.py is my code.**
 
 
 ### Assignment
